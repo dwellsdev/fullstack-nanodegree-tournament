@@ -1,5 +1,6 @@
 -- Table definitions for the tournament project.
 
+-- Makes resetting the database easier.
 DROP DATABASE IF EXISTS tournament;
 
 CREATE DATABASE tournament;
